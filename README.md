@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <h2> Hello, World! <br> I'm Danilo, but you can call me giga. </h2>
+</div>
 
 ![snake gif](https://github.com/gigazin/gigazin/blob/output/github-contribution-grid-snake.svg)
 
