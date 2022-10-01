@@ -47,6 +47,9 @@
       <a href="https://www.instagram.com/gigazin/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
       </a>
+      <a href="https://discordapp.com/users/328217859605921794">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      </a>
     </div>
   </div>
 </div>
