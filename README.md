@@ -17,7 +17,7 @@
       🎓 I'm currently studying Computer Science at Catholic University of Pernambuco - Unicap and will probably graduate in December 2024. There's still too much            hard work to do, but it always pays off in the end. </p> <br />
     </div>
     <div align="center">
-      <p text-align="center"> You can see my curriculum and full info by clicking <a href="https://danilo-silva.vercel.app/" target="_blank">here</a></p>
+      <p text-align="center"><b>📄 You can see more about me by clicking <a href="https://danilo-silva.vercel.app/" target="_blank">here</a> 📄</b></p>
     </div>
   </div>
   <hr />
