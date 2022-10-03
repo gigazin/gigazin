@@ -14,7 +14,10 @@
       🎮 Playing games is what I love to do the most, as well as listening to some good music everyday and everytime I can. In fact I'm very much into game 
       development, it's my main working goal. <br /> <br />
       👨‍💻 Another thing that I love to do is programming. My first contact with programming happened before joining college, all the way back in 2017, when my older         brother teached me how to do a Hello World using Delphi. <br /> <br />
-      🎓 I'm currently studying Computer Science at Catholic University of Pernambuco - Unicap and will probably graduate in December 2024. There's still too much            hard work to do, but it always pays off in the end. </p>
+      🎓 I'm currently studying Computer Science at Catholic University of Pernambuco - Unicap and will probably graduate in December 2024. There's still too much            hard work to do, but it always pays off in the end. </p> <br />
+    </div>
+    <div align="center">
+      <p text-align="center"> You can see my curriculum and full info by clicking <a href="https://danilo-silva.vercel.app/" target="_blank">here</a></p>
     </div>
   </div>
   <hr />
